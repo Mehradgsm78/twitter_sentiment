@@ -1,3 +1,4 @@
+d
 # local package
 -e .
 
@@ -6,5 +7,10 @@ click
 Sphinx
 coverage
 awscli
+scikit-learn
 flake8
+numpy
+pandas
+ipykernel
+textblob
 python-dotenv>=0.5.1
